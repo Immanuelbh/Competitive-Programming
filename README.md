@@ -1,6 +1,6 @@
 # Competitive Programming #
 
-#### Completed: 3 /30
+#### Completed: 5 /30
 
 - [x] Counting Molecules | HackerRank | 100%
 - [x] Fibonacci | CS Academy | 100%
@@ -10,7 +10,7 @@
 - [ ] Octopuses With Watches | CS Academy | 10%
 - [x] Magic Square | HackerRank | 100%
 - [ ] Food Truck | HackerRank | 87.5%
-- [ ] Always Be In Control | HackerRank
+- [x] Always Be In Control | HackerRank | 100%
 - [ ] Block Art | HackerRank
 - [ ] Impact Factor
 - [ ] Island Hopping
