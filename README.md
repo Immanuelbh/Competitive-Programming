@@ -7,7 +7,7 @@
 - [x] Kabloom | HackerRank | 100%
 - [ ] Car Spark | HackerRank |  36.17%
 - [ ] N Palindrom | HackerRank | 58.33%
-- [ ] Octopuses With Watches
+- [ ] Octopuses With Watches | CS Academy | 10%
 - [ ] Magic Square
 - [ ] Food Truck
 - [ ] Always Be In Control | HackerRank
