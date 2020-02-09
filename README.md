@@ -1,6 +1,6 @@
 # Competitive Programming #
 
-#### Completed: 5 /30
+#### Completed: 6 /30
 
 - [x] Counting Molecules | HackerRank | 100%
 - [x] Fibonacci | CS Academy | 100%
@@ -11,7 +11,7 @@
 - [x] Magic Square | HackerRank | 100%
 - [ ] Food Truck | HackerRank | 87.5%
 - [x] Always Be In Control | HackerRank | 100%
-- [ ] Block Art | HackerRank
+- [x] Block Art | HackerRank | 100%
 - [ ] Impact Factor
 - [ ] Island Hopping
 - [ ] Orienteering
