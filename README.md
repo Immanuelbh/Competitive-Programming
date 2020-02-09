@@ -9,7 +9,7 @@
 - [ ] N Palindrom | HackerRank | 58.33%
 - [ ] Octopuses With Watches | CS Academy | 10%
 - [x] Magic Square | HackerRank | 100%
-- [ ] Food Truck
+- [ ] Food Truck | HackerRank | 87.5%
 - [ ] Always Be In Control | HackerRank
 - [ ] Block Art | HackerRank
 - [ ] Impact Factor
