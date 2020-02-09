@@ -8,7 +8,7 @@
 - [ ] Car Spark | HackerRank |  36.17%
 - [ ] N Palindrom | HackerRank | 58.33%
 - [ ] Octopuses With Watches | CS Academy | 10%
-- [ ] Magic Square
+- [x] Magic Square | HackerRank | 100%
 - [ ] Food Truck
 - [ ] Always Be In Control | HackerRank
 - [ ] Block Art | HackerRank
