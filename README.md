@@ -1,9 +1,11 @@
 # Competitive Programming #
 
-- [x] Counting Molecules | HackerRank
-- [x] Fibonacci | CS Academy
-- [x] Kabloom | HackerRank
-- [ ] Car Spark
+#### Completed: 3 /30
+
+- [x] Counting Molecules | HackerRank | 100%
+- [x] Fibonacci | CS Academy | 100%
+- [x] Kabloom | HackerRank | 100%
+- [ ] Car Spark | HackerRank |  36.17%
 - [ ] N Palindrom
 - [ ] Octopuses With Watches
 - [ ] Magic Square
