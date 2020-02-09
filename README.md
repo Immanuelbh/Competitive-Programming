@@ -1,6 +1,6 @@
 # Competitive Programming #
 
-- [ ] Counting Molecules
+- [x] Counting Molecules
 - [ ] Fibonacci
 - [ ] Kabloom
 - [ ] Car Spark
