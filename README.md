@@ -1,7 +1,7 @@
 # Competitive Programming #
 
-- [x] Counting Molecules
-- [ ] Fibonacci
+- [x] Counting Molecules | HackerRank
+- [x] Fibonacci | CS Academy
 - [ ] Kabloom
 - [ ] Car Spark
 - [ ] N Palindrom
