@@ -2,7 +2,7 @@
 
 - [x] Counting Molecules | HackerRank
 - [x] Fibonacci | CS Academy
-- [ ] Kabloom
+- [x] Kabloom | HackerRank
 - [ ] Car Spark
 - [ ] N Palindrom
 - [ ] Octopuses With Watches
