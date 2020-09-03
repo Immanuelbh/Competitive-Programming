@@ -1,4 +1,4 @@
-package RunningUpStairs;
+package CSAcademy.src.RunningUpStairs;
 
 // Don't place your source in a package
 import java.util.*;

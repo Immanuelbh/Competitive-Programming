@@ -1,4 +1,4 @@
-package VangelisTheBatbearAndTheBubblesChallange;
+package CSAcademy.src.VangelisTheBatbearAndTheBubblesChallange;
 
 // Don't place your source in a package
 import java.util.*;

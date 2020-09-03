@@ -1,4 +1,4 @@
-package Kabloom;
+package HackerRank.src.Kabloom;
 
 import java.io.*;
 import java.util.*;

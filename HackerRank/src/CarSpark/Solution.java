@@ -1,4 +1,4 @@
-package CarSpark;
+package HackerRank.src.CarSpark;
 
 import java.io.*;
 import java.util.*;

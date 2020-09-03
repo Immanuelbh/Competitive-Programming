@@ -1,4 +1,4 @@
-package AveCaesar;
+package CSAcademy.src.AveCaesar;
 
 // Don't place your source in a package
 import java.util.*;

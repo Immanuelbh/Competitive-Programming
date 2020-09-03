@@ -1,4 +1,4 @@
-package IntiSets;
+package HackerRank.src.IntiSets;
 
 import java.io.*;
 import java.util.*;

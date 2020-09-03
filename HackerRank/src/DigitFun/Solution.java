@@ -1,4 +1,4 @@
-package DigitFun;
+package HackerRank.src.DigitFun;
 
 import java.io.*;
 import java.util.*;

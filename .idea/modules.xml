@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CSAcademy/CSAcademy.iml" filepath="$PROJECT_DIR$/CSAcademy/CSAcademy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Competitive Programming.iml" filepath="$PROJECT_DIR$/Competitive Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Competitive-Programming.iml" filepath="$PROJECT_DIR$/.idea/Competitive-Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank.iml" />
     </modules>
   </component>

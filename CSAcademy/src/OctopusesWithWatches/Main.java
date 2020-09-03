@@ -1,4 +1,4 @@
-package OctopusesWithWatches;
+package CSAcademy.src.OctopusesWithWatches;
 
 import java.util.Scanner;
 

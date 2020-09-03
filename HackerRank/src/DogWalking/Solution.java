@@ -1,4 +1,4 @@
-package DogWalking;
+package HackerRank.src.DogWalking;
 
 import java.io.*;
 import java.util.*;

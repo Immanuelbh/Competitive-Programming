@@ -1,4 +1,4 @@
-package BackToSquare1;
+package HackerRank.src.BackToSquare1;
 
 import java.io.*;
 import java.util.*;

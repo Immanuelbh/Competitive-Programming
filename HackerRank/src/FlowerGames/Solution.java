@@ -1,4 +1,4 @@
-package FlowerGames;
+package HackerRank.src.FlowerGames;
 
 import java.io.*;
 import java.math.BigInteger;

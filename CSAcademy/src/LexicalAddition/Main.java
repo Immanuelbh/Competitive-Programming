@@ -1,4 +1,4 @@
-package LexicalAddition;
+package CSAcademy.src.LexicalAddition;
 
 // Don't place your source in a package
 import java.util.*;

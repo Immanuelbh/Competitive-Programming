@@ -1,4 +1,4 @@
-package CountingMolecules;
+package HackerRank.src.CountingMolecules;
 
 import java.io.*;
 import java.util.*;

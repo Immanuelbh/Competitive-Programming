@@ -1,4 +1,4 @@
-package MemoryManagement;
+package HackerRank.src.MemoryManagement;
 
 import java.io.*;
 import java.util.*;

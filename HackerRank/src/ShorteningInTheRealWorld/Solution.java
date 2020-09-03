@@ -1,4 +1,4 @@
-package ShorteningInTheRealWorld;
+package HackerRank.src.ShorteningInTheRealWorld;
 
 import java.io.*;
 import java.nio.ByteBuffer;

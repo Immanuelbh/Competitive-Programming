@@ -1,4 +1,4 @@
-package GameOfStones;
+package HackerRank.src.GameOfStones;
 
 import java.io.*;
 import java.util.*;

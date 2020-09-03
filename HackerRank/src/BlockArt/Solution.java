@@ -1,4 +1,4 @@
-package BlockArt;
+package HackerRank.src.BlockArt;
 
 import java.util.ArrayList;
 import java.util.Collection;

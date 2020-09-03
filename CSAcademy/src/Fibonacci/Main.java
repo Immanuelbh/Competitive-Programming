@@ -1,4 +1,4 @@
-package Fibonacci;
+package CSAcademy.src.Fibonacci;
 
 // Don't place your source in a package
 import java.util.*;

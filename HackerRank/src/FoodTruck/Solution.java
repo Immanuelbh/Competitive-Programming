@@ -1,4 +1,4 @@
-package FoodTruck;
+package HackerRank.src.FoodTruck;
 
 import java.io.*;
 import java.text.DateFormat;

@@ -1,4 +1,4 @@
-package FullAdder;
+package HackerRank.src.FullAdder;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package AlwaysBeInControl;
+package HackerRank.src.AlwaysBeInControl;
 
 import java.io.*;
 import java.util.*;

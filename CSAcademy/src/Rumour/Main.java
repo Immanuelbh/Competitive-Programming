@@ -1,4 +1,4 @@
-package Rumour;
+package CSAcademy.src.Rumour;
 
 // Don't place your source in a package
 import java.math.BigInteger;

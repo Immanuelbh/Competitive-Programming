@@ -1,4 +1,4 @@
-package TrollCoder;
+package CSAcademy.src.TrollCoder;
 
 // Don't place your source in a package
 import java.util.*;

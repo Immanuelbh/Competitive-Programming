@@ -1,4 +1,4 @@
-package NPalindromes;
+package HackerRank.src.NPalindromes;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package MagicSquare;
+package HackerRank.src.MagicSquare;
 
 import java.io.*;
 import java.util.*;
